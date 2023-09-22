@@ -31,7 +31,7 @@ public class DbConnection {
    * This is the host name of the running MySQL server. "localhost" is the name
    * of the machine that runs the Java application.
    */
-  private static final String HOST = "localhost";
+  private static final String HOST = "DC1";
 
   /* This is the port number. The default port for MySQL is 3306. */
   private static final int PORT = 3306;
